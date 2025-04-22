@@ -44,7 +44,7 @@ Possible solution: `["PICK", "RIGHT", "PLACE", "LEFT", "PICK", "RIGHT", "RIGHT",
 3. Run the tests:
 
    ```
-   python simulator.py
+   python run_tests.py or python3 run_tests.py
    ```
 
 ## Evaluation Criteria
